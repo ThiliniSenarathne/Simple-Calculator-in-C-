@@ -1,0 +1,39 @@
+F:\2019ICT81 Visual Programming\2022_11_22\MySecondApp\MySecondApp\bin\Debug\MySecondApp.exe.config
+F:\2019ICT81 Visual Programming\2022_11_22\MySecondApp\MySecondApp\bin\Debug\MySecondApp.exe
+F:\2019ICT81 Visual Programming\2022_11_22\MySecondApp\MySecondApp\bin\Debug\MySecondApp.pdb
+F:\2019ICT81 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.csprojAssemblyReference.cache
+F:\2019ICT81 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.Form1.resources
+F:\2019ICT81 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.Properties.Resources.resources
+F:\2019ICT81 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.csproj.GenerateResource.cache
+F:\2019ICT81 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.exe
+F:\2019ICT81 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.pdb
+D:\Academic notes\21 Notes\Practical\IT2143 Visual Programming\2022_11_22\MySecondApp\MySecondApp\bin\Debug\MySecondApp.exe.config
+D:\Academic notes\21 Notes\Practical\IT2143 Visual Programming\2022_11_22\MySecondApp\MySecondApp\bin\Debug\MySecondApp.exe
+D:\Academic notes\21 Notes\Practical\IT2143 Visual Programming\2022_11_22\MySecondApp\MySecondApp\bin\Debug\MySecondApp.pdb
+D:\Academic notes\21 Notes\Practical\IT2143 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.csproj.AssemblyReference.cache
+D:\Academic notes\21 Notes\Practical\IT2143 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.Form1.resources
+D:\Academic notes\21 Notes\Practical\IT2143 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.Properties.Resources.resources
+D:\Academic notes\21 Notes\Practical\IT2143 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.csproj.GenerateResource.cache
+D:\Academic notes\21 Notes\Practical\IT2143 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.csproj.CoreCompileInputs.cache
+D:\Academic notes\21 Notes\Practical\IT2143 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.exe
+D:\Academic notes\21 Notes\Practical\IT2143 Visual Programming\2022_11_22\MySecondApp\MySecondApp\obj\Debug\MySecondApp.pdb
+C:\Users\ASUS\Desktop\Projects\Calculator in C#\MySecondApp\bin\Debug\MySecondApp.exe.config
+C:\Users\ASUS\Desktop\Projects\Calculator in C#\MySecondApp\bin\Debug\MySecondApp.exe
+C:\Users\ASUS\Desktop\Projects\Calculator in C#\MySecondApp\bin\Debug\MySecondApp.pdb
+C:\Users\ASUS\Desktop\Projects\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.Form1.resources
+C:\Users\ASUS\Desktop\Projects\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Projects\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Projects\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.exe
+C:\Users\ASUS\Desktop\Projects\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.pdb
+D:\Projects for GitHub\Calculator in C#\MySecondApp\bin\Debug\MySecondApp.exe.config
+D:\Projects for GitHub\Calculator in C#\MySecondApp\bin\Debug\MySecondApp.exe
+D:\Projects for GitHub\Calculator in C#\MySecondApp\bin\Debug\MySecondApp.pdb
+D:\Projects for GitHub\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.csproj.AssemblyReference.cache
+D:\Projects for GitHub\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.Form1.resources
+D:\Projects for GitHub\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.Properties.Resources.resources
+D:\Projects for GitHub\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.csproj.GenerateResource.cache
+D:\Projects for GitHub\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.csproj.CoreCompileInputs.cache
+D:\Projects for GitHub\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.exe
+D:\Projects for GitHub\Calculator in C#\MySecondApp\obj\Debug\MySecondApp.pdb
